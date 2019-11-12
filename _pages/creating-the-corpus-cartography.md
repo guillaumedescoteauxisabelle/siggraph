@@ -20,3 +20,13 @@ Here I plan to describe and picture my process
 Created Taxonomy : ACM Concepts 
 
 <!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+
+## WPApp - Plugins...
+
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":42} --><figure class="wp-block-image">
+
+<img src="http://guillaumeisabelle.com/siggraph/wp-content/uploads/sites/25/2019/11/image-967x1024.png" alt="" class="wp-image-42" /></figure> <!-- /wp:image -->
