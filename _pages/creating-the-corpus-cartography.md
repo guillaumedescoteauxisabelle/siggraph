@@ -51,4 +51,4 @@ Created Taxonomy : ACM Concepts
 
 <!-- wp:image {"id":54} --><figure class="wp-block-image">
 
-<img src="http://guillaumeisabelle.com/siggraph/wp-content/uploads/sites/25/2019/11/image-4-781x1024.png" alt="" class="wp-image-54" /></figure> <!-- /wp:image -->
+<img src="http://guillaumeisabelle.com/siggraph/wp-content/uploads/sites/25/2019/11/image-4-781x1024.png" alt="" class="wp-image-54" /><figcaption>https://wordpress.org/plugins/cool-tag-cloud/</figcaption></figure> <!-- /wp:image -->
