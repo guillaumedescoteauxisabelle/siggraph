@@ -17,7 +17,7 @@ post_date: 2019-11-12 15:32:09
 
 <!-- /wp:heading -->
 
-<!-- wp:shortcode --> [zotpress items="{180474:ETKV4RH7}" style="apa" abstract="true"] 
+<!-- wp:shortcode --> [zotpress items="{180474:ETKV4RH7}" style="apa" abstract="true" files="true" notes="true"] 
 
 <!-- /wp:shortcode -->
 
