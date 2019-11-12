@@ -45,9 +45,9 @@ Created Taxonomy : ACM Concepts
 
 <img src="http://guillaumeisabelle.com/siggraph/wp-content/uploads/sites/25/2019/11/image-1-1020x1024.png" alt="" class="wp-image-44" /></figure> <!-- /wp:image -->
 
-<!-- wp:image {"id":52} --><figure class="wp-block-image">
+<!-- wp:image {"id":52,"linkDestination":"custom"} --><figure class="wp-block-image">
 
-<img src="http://guillaumeisabelle.com/siggraph/wp-content/uploads/sites/25/2019/11/image-3-848x1024.png" alt="" class="wp-image-52" /><figcaption>https://github.com/herewithme/simple-tags</figcaption></figure> <!-- /wp:image -->
+<a href="https://github.com/herewithme/simple-tags" target="_blank" rel="noreferrer noopener"><img src="http://guillaumeisabelle.com/siggraph/wp-content/uploads/sites/25/2019/11/image-3-848x1024.png" alt="" class="wp-image-52" /></a><figcaption>https://github.com/herewithme/simple-tags</figcaption></figure> <!-- /wp:image -->
 
 <!-- wp:image {"id":54,"linkDestination":"custom"} --><figure class="wp-block-image">
 
