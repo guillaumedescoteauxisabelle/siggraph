@@ -30,3 +30,19 @@ acmconcepts
 <!-- wp:shortcode --> [cool_tag_cloud taxonomy="acmkeyword"] 
 
 <!-- /wp:shortcode -->
+
+<!-- wp:separator -->
+
+<hr class="wp-block-separator" />
+
+<!-- /wp:separator -->
+
+<!-- wp:paragraph -->
+
+Capitalized
+
+<!-- /wp:paragraph -->
+
+<!-- wp:shortcode --> [cool_tag_cloud taxonomy="acmkeyword" text_transform="uppercase”] 
+
+<!-- /wp:shortcode -->
