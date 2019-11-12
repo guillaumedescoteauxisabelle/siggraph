@@ -33,8 +33,6 @@ post_date: 2019-11-12 15:32:09
 
 <!-- /wp:heading -->
 
-<!-- wp:paragraph -->
+<!-- wp:shortcode --> [zotpress tags="SESSION: Pipelines and tools"] 
 
-[zotpress tags="SESSION: Pipelines and tools"]
-
-<!-- /wp:paragraph -->
+<!-- /wp:shortcode -->
