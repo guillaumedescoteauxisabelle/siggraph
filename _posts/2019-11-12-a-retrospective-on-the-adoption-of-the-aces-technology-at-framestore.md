@@ -21,9 +21,15 @@ post_date: 2019-11-12 15:32:09
 
 <!-- /wp:shortcode -->
 
-<!-- wp:heading {"level":3} -->
+<!-- wp:separator -->
 
-### Session Related Conferences
+<hr class="wp-block-separator" />
+
+<!-- /wp:separator -->
+
+<!-- wp:heading -->
+
+## Session Related Conferences
 
 <!-- /wp:heading -->
 
