@@ -27,6 +27,6 @@ acmconcepts
 
 <!-- /wp:paragraph -->
 
-<!-- wp:shortcode --> [cool_tag_cloud largest=”10″ taxonomy="acmconcepts"] 
+<!-- wp:shortcode --> [cool_tag_cloud taxonomy="acmkeyword"] 
 
 <!-- /wp:shortcode -->
