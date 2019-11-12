@@ -18,3 +18,7 @@ post_date: 2019-11-12 16:16:20
 <!-- wp:shortcode --> [zotpress items="{180474:S6LU6EST}" style="apa" showimage="yes" download="yes" abstract="yes" notes="yes" cite="yes"] 
 
 <!-- /wp:shortcode -->
+
+<!-- wp:block {"ref":83} /-->
+
+<!-- wp:block {"ref":81} /-->
