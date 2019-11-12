@@ -74,3 +74,13 @@ Created Taxonomy : ACM Concepts
 <!-- wp:image {"id":54,"linkDestination":"custom"} --><figure class="wp-block-image">
 
 <a href="https://wordpress.org/plugins/cool-tag-cloud/" target="_blank" rel="noreferrer noopener"><img src="http://guillaumeisabelle.com/siggraph/wp-content/uploads/sites/25/2019/11/image-4-781x1024.png" alt="" class="wp-image-54" /></a><figcaption>https://wordpress.org/plugins/cool-tag-cloud/</figcaption></figure> <!-- /wp:image -->
+
+<!-- wp:paragraph -->
+
+well other stuff I was dragged into
+
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":69,"linkDestination":"custom"} --><figure class="wp-block-image">
+
+<a href="https://www.tipsandtricks-hq.com/wordpress-plugin-for-category-specific-rss-feed-subscription-menu-325" target="_blank" rel="noreferrer noopener"><img src="http://guillaumeisabelle.com/siggraph/wp-content/uploads/sites/25/2019/11/image-6-1024x516.png" alt="" class="wp-image-69" /></a></figure> <!-- /wp:image -->
