@@ -21,6 +21,16 @@ Created Taxonomy : ACM Concepts
 
 <!-- /wp:paragraph -->
 
+<!-- wp:heading {"level":3} -->
+
+### Example
+
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":49} --><figure class="wp-block-image">
+
+<img src="http://guillaumeisabelle.com/siggraph/wp-content/uploads/sites/25/2019/11/image-2.png" alt="" class="wp-image-49" /></figure> <!-- /wp:image -->
+
 <!-- wp:heading -->
 
 ## WPApp - Plugins...
