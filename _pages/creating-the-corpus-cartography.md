@@ -43,9 +43,9 @@ Created Taxonomy : ACM Concepts
 
 <!-- /wp:heading -->
 
-<!-- wp:image {"id":66,"width":592,"height":870} --><figure class="wp-block-image is-resized">
+<!-- wp:image {"id":66,"width":592,"height":870,"linkDestination":"custom"} --><figure class="wp-block-image is-resized">
 
-<img src="http://guillaumeisabelle.com/siggraph/wp-content/uploads/sites/25/2019/11/image-5-697x1024.png" alt="" class="wp-image-66" width="592" height="870" /><figcaption>Siggraph Conference themes</figcaption></figure> <!-- /wp:image -->
+<a href="https://docs.google.com/spreadsheets/d/1IMW1iFxZ9wovI6sz448YhsZsxk_SwNDGOEXXAvHXScQ/edit#gid=2088759565" target="_blank" rel="noreferrer noopener"><img src="http://guillaumeisabelle.com/siggraph/wp-content/uploads/sites/25/2019/11/image-5-697x1024.png" alt="" class="wp-image-66" width="592" height="870" /></a><figcaption>Siggraph Conference themes</figcaption></figure> <!-- /wp:image -->
 
 <!-- wp:separator -->
 
