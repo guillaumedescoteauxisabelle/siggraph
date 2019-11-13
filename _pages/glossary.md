@@ -133,6 +133,12 @@ That key terms and concepts are definable and that definition is accessible in l
 
 <!-- /wp:separator -->
 
+<!-- wp:separator -->
+
+<hr class="wp-block-separator" />
+
+<!-- /wp:separator -->
+
 <!-- wp:heading -->
 
 ## Next: Creating Charts...
