@@ -84,3 +84,19 @@ That key terms and concepts are definable and that definition is accessible in l
 <!-- wp:image {"id":189} --><figure class="wp-block-image">
 
 <img src="http://guillaumeisabelle.com/siggraph/wp-content/uploads/sites/25/2019/11/image-16.png" alt="" class="wp-image-189" /><figcaption>You can disable glossary in a post...</figcaption></figure> <!-- /wp:image -->
+
+<!-- wp:separator -->
+
+<hr class="wp-block-separator" />
+
+<!-- /wp:separator -->
+
+<!-- wp:heading -->
+
+## Next: Creating Charts...
+
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":191} --><figure class="wp-block-image">
+
+<img src="http://guillaumeisabelle.com/siggraph/wp-content/uploads/sites/25/2019/11/image-17.png" alt="" class="wp-image-191" /></figure> <!-- /wp:image -->
