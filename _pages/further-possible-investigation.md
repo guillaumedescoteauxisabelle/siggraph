@@ -25,6 +25,22 @@ post_date: 2019-11-13 14:15:31
 
 <img src="http://guillaumeisabelle.com/siggraph/wp-content/uploads/sites/25/2019/11/image-31-1024x94.png" alt="" class="wp-image-266" /><figcaption>activating...</figcaption></figure> <!-- /wp:image -->
 
+<!-- wp:core-embed/wordpress {"url":"https://wordpress.org/plugins/posts-to-posts/","type":"wp-embed","providerNameSlug":"plugin-directory","className":""} --><figure class="wp-block-embed-wordpress wp-block-embed is-type-wp-embed is-provider-plugin-directory">
+
+<div class="wp-block-embed__wrapper">
+  https://wordpress.org/plugins/posts-to-posts/
+</div><figcaption>Must have for RDF...</figcaption></figure> 
+
+<!-- /wp:core-embed/wordpress -->
+
+<!-- wp:core-embed/wordpress {"url":"https://wordpress.org/plugins/enhanced-publication/","type":"wp-embed","providerNameSlug":"plugin-directory","className":""} --><figure class="wp-block-embed-wordpress wp-block-embed is-type-wp-embed is-provider-plugin-directory">
+
+<div class="wp-block-embed__wrapper">
+  https://wordpress.org/plugins/enhanced-publication/
+</div></figure> 
+
+<!-- /wp:core-embed/wordpress -->
+
 <!-- wp:image --><figure class="wp-block-image">
 
 ![][1]<figcaption>Knowledge graph example  
