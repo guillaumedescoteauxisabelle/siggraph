@@ -28,3 +28,13 @@ That key terms and concepts are definable and that definition is accessible in l
 <!-- wp:image {"id":178} --><figure class="wp-block-image">
 
 <img src="http://guillaumeisabelle.com/siggraph/wp-content/uploads/sites/25/2019/11/image-11.png" alt="" class="wp-image-178" /></figure> <!-- /wp:image -->
+
+<!-- wp:heading -->
+
+## Adding on a term to the Glossary, we can classify them into a Taxonomy
+
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":180} --><figure class="wp-block-image">
+
+<img src="http://guillaumeisabelle.com/siggraph/wp-content/uploads/sites/25/2019/11/image-12.png" alt="" class="wp-image-180" /></figure> <!-- /wp:image -->
