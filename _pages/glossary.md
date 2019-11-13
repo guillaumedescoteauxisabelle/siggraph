@@ -123,6 +123,10 @@ That key terms and concepts are definable and that definition is accessible in l
 
 <img src="http://guillaumeisabelle.com/siggraph/wp-content/uploads/sites/25/2019/11/image-21.png" alt="" class="wp-image-201" /><figcaption>I had to add the PDF manually :(</figcaption></figure> <!-- /wp:image -->
 
+<!-- wp:image {"id":205} --><figure class="wp-block-image">
+
+<img src="http://guillaumeisabelle.com/siggraph/wp-content/uploads/sites/25/2019/11/image-23.png" alt="" class="wp-image-205" /><figcaption>Here it is, I now have a download link for the content PDF</figcaption></figure> <!-- /wp:image -->
+
 <!-- wp:separator -->
 
 <hr class="wp-block-separator" />
