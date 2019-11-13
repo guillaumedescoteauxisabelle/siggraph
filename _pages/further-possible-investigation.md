@@ -9,6 +9,18 @@ permalink: >
 published: true
 post_date: 2019-11-13 14:15:31
 ---
+<!-- wp:image {"id":263} --><figure class="wp-block-image">
+
+<img src="http://guillaumeisabelle.com/siggraph/wp-content/uploads/sites/25/2019/11/image-30.png" alt="" class="wp-image-263" /><figcaption>Does the RDF format be transformed into a Graph ??</figcaption></figure> <!-- /wp:image -->
+
+<!-- wp:paragraph {"customBackgroundColor":"#bbf3ee"} -->
+
+<p style="background-color:#bbf3ee" class="has-background">
+  Does the RDF format be transformed into a Graph ??
+</p>
+
+<!-- /wp:paragraph -->
+
 <!-- wp:image --><figure class="wp-block-image">
 
 ![][1]<figcaption>Knowledge graph example  
