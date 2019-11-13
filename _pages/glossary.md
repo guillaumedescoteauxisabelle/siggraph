@@ -111,6 +111,10 @@ That key terms and concepts are definable and that definition is accessible in l
 
 <a href="https://en-gb.wordpress.org/plugins/zotpress/" target="_blank" rel="noreferrer noopener"><img src="http://guillaumeisabelle.com/siggraph/wp-content/uploads/sites/25/2019/11/image-19.png" alt="" class="wp-image-195" width="281" height="247" /></a><figcaption>I used Zotpress</figcaption></figure> <!-- /wp:image -->
 
+<!-- wp:image {"id":199} --><figure class="wp-block-image">
+
+<img src="http://guillaumeisabelle.com/siggraph/wp-content/uploads/sites/25/2019/11/image-20-1024x396.png" alt="" class="wp-image-199" /><figcaption>The Zotpress generated a shortcode I pasted in the Term definition</figcaption></figure> <!-- /wp:image -->
+
 <!-- wp:separator -->
 
 <hr class="wp-block-separator" />
