@@ -9,9 +9,9 @@ permalink: >
 published: true
 post_date: 2019-11-13 14:15:31
 ---
-<!-- wp:image {"id":263} --><figure class="wp-block-image">
+<!-- wp:image {"id":263,"linkDestination":"custom"} --><figure class="wp-block-image">
 
-<img src="http://guillaumeisabelle.com/siggraph/wp-content/uploads/sites/25/2019/11/image-30.png" alt="" class="wp-image-263" /><figcaption>Does the RDF format be transformed into a Graph ??</figcaption></figure> <!-- /wp:image -->
+<a href="https://wordpress.org/plugins/lh-rdf/" target="_blank" rel="noreferrer noopener"><img src="http://guillaumeisabelle.com/siggraph/wp-content/uploads/sites/25/2019/11/image-30.png" alt="" class="wp-image-263" /></a><figcaption>Does the RDF format be transformed into a Graph ??</figcaption></figure> <!-- /wp:image -->
 
 <!-- wp:paragraph {"customBackgroundColor":"#bbf3ee"} -->
 
