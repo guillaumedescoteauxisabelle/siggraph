@@ -115,6 +115,10 @@ That key terms and concepts are definable and that definition is accessible in l
 
 <img src="http://guillaumeisabelle.com/siggraph/wp-content/uploads/sites/25/2019/11/image-20-1024x396.png" alt="" class="wp-image-199" /><figcaption>The Zotpress generated a shortcode I pasted in the Term definition</figcaption></figure> <!-- /wp:image -->
 
+<!-- wp:image {"id":201} --><figure class="wp-block-image">
+
+<img src="http://guillaumeisabelle.com/siggraph/wp-content/uploads/sites/25/2019/11/image-21.png" alt="" class="wp-image-201" /><figcaption>I had to add the PDF manually :(</figcaption></figure> <!-- /wp:image -->
+
 <!-- wp:separator -->
 
 <hr class="wp-block-separator" />
