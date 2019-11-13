@@ -32,13 +32,3 @@ post_date: 2019-11-12 15:32:09
 <hr class="wp-block-separator" />
 
 <!-- /wp:separator -->
-
-<!-- wp:heading -->
-
-## Session Related Conferences
-
-<!-- /wp:heading -->
-
-<!-- wp:shortcode --> [zotpress tags="SESSION: Pipelines and tools"] 
-
-<!-- /wp:shortcode -->
