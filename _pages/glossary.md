@@ -54,3 +54,13 @@ That key terms and concepts are definable and that definition is accessible in l
 <!-- wp:image {"id":182} --><figure class="wp-block-image">
 
 <img src="http://guillaumeisabelle.com/siggraph/wp-content/uploads/sites/25/2019/11/image-13.png" alt="" class="wp-image-182" /><figcaption>It does work :)</figcaption></figure> <!-- /wp:image -->
+
+<!-- wp:heading {"level":3} -->
+
+### Interesting, I can use shortcode to get the list of terms or their taxonomy
+
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":185} --><figure class="wp-block-image">
+
+<img src="http://guillaumeisabelle.com/siggraph/wp-content/uploads/sites/25/2019/11/image-14.png" alt="" class="wp-image-185" /></figure> <!-- /wp:image -->
