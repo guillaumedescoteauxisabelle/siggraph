@@ -37,9 +37,9 @@ Created Taxonomy : ACM Concepts
 
 <!-- /wp:separator -->
 
-<!-- wp:image {"id":149} --><figure class="wp-block-image">
+<!-- wp:image {"id":149,"linkDestination":"media"} --><figure class="wp-block-image">
 
-<img src="http://guillaumeisabelle.com/siggraph/wp-content/uploads/sites/25/2019/11/image-9-1024x771.png" alt="" class="wp-image-149" /><figcaption>Clouds of Keywords created from ACM concepts, ACM Keywords and Conference Classification</figcaption></figure> <!-- /wp:image -->
+<a href="http://guillaumeisabelle.com/siggraph/wp-content/uploads/sites/25/2019/11/image-9.png" target="_blank" rel="noreferrer noopener"><img src="http://guillaumeisabelle.com/siggraph/wp-content/uploads/sites/25/2019/11/image-9-1024x771.png" alt="" class="wp-image-149" /></a><figcaption>Clouds of Keywords created from ACM concepts, ACM Keywords and Conference Classification</figcaption></figure> <!-- /wp:image -->
 
 <!-- wp:separator -->
 
