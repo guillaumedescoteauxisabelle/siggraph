@@ -15,6 +15,28 @@ That key terms and concepts are definable and that definition is accessible in l
 
 <!-- /wp:paragraph -->
 
+<!-- wp:shortcode --> [glossary-terms] 
+
+<!-- /wp:shortcode -->
+
+<!-- wp:separator -->
+
+<hr class="wp-block-separator" />
+
+<!-- /wp:separator -->
+
+<!-- wp:separator -->
+
+<hr class="wp-block-separator" />
+
+<!-- /wp:separator -->
+
+<!-- wp:heading -->
+
+## Bellow are steps that made 'Glossaring' works
+
+<!-- /wp:heading -->
+
 <!-- wp:image {"id":174,"linkDestination":"custom"} --><figure class="wp-block-image">
 
 <a href="https://wordpress.org/plugins/glossary-by-codeat/" target="_blank" rel="noreferrer noopener"><img src="http://guillaumeisabelle.com/siggraph/wp-content/uploads/sites/25/2019/11/image-10.png" alt="" class="wp-image-174" /></a></figure> <!-- /wp:image -->
