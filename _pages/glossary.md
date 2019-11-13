@@ -18,3 +18,13 @@ That key terms and concepts are definable and that definition is accessible in l
 <!-- wp:image {"id":174,"linkDestination":"custom"} --><figure class="wp-block-image">
 
 <a href="https://wordpress.org/plugins/glossary-by-codeat/" target="_blank" rel="noreferrer noopener"><img src="http://guillaumeisabelle.com/siggraph/wp-content/uploads/sites/25/2019/11/image-10.png" alt="" class="wp-image-174" /></a></figure> <!-- /wp:image -->
+
+<!-- wp:heading -->
+
+## Term counting ??
+
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":178} --><figure class="wp-block-image">
+
+<img src="http://guillaumeisabelle.com/siggraph/wp-content/uploads/sites/25/2019/11/image-11.png" alt="" class="wp-image-178" /></figure> <!-- /wp:image -->
