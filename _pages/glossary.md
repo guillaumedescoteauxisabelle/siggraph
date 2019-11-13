@@ -53,4 +53,4 @@ That key terms and concepts are definable and that definition is accessible in l
 
 <!-- wp:image {"id":182} --><figure class="wp-block-image">
 
-<img src="http://guillaumeisabelle.com/siggraph/wp-content/uploads/sites/25/2019/11/image-13.png" alt="" class="wp-image-182" /></figure> <!-- /wp:image -->
+<img src="http://guillaumeisabelle.com/siggraph/wp-content/uploads/sites/25/2019/11/image-13.png" alt="" class="wp-image-182" /><figcaption>It does work :)</figcaption></figure> <!-- /wp:image -->
