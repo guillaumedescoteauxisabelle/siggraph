@@ -46,3 +46,7 @@ post_date: 2019-11-13 13:19:29
 <!-- wp:image {"id":234,"linkDestination":"custom"} --><figure class="wp-block-image">
 
 <a href="https://wordpress.org/plugins/taxonomy-images/" target="_blank" rel="noreferrer noopener"><img src="http://guillaumeisabelle.com/siggraph/wp-content/uploads/sites/25/2019/11/image-27.png" alt="" class="wp-image-234" /></a></figure> <!-- /wp:image -->
+
+<!-- wp:image {"id":236} --><figure class="wp-block-image">
+
+<img src="http://guillaumeisabelle.com/siggraph/wp-content/uploads/sites/25/2019/11/image-28.png" alt="" class="wp-image-236" /><figcaption>something tells me that might be interesting...</figcaption></figure> <!-- /wp:image -->
