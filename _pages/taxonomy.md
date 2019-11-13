@@ -38,3 +38,7 @@ post_date: 2019-11-13 13:19:29
 <!-- wp:image {"id":230} --><figure class="wp-block-image">
 
 <img src="http://guillaumeisabelle.com/siggraph/wp-content/uploads/sites/25/2019/11/image-25.png" alt="" class="wp-image-230" /><figcaption>Creating a Hierarchy is interesting</figcaption></figure> <!-- /wp:image -->
+
+<!-- wp:image {"id":232} --><figure class="wp-block-image">
+
+<img src="http://guillaumeisabelle.com/siggraph/wp-content/uploads/sites/25/2019/11/image-26.png" alt="" class="wp-image-232" /><figcaption>Relating post by taxonomy</figcaption></figure> <!-- /wp:image -->
