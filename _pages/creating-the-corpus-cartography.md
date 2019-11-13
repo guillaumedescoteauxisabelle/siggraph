@@ -37,6 +37,16 @@ Created Taxonomy : ACM Concepts
 
 <!-- /wp:separator -->
 
+<!-- wp:image {"id":149} --><figure class="wp-block-image">
+
+<img src="http://guillaumeisabelle.com/siggraph/wp-content/uploads/sites/25/2019/11/image-9-1024x771.png" alt="" class="wp-image-149" /><figcaption>Clouds of Keywords created from ACM concepts, ACM Keywords and Conference Classification</figcaption></figure> <!-- /wp:image -->
+
+<!-- wp:separator -->
+
+<hr class="wp-block-separator" />
+
+<!-- /wp:separator -->
+
 <!-- wp:heading -->
 
 ## Data
@@ -85,9 +95,9 @@ well other stuff I was dragged into
 
 <a href="https://www.tipsandtricks-hq.com/wordpress-plugin-for-category-specific-rss-feed-subscription-menu-325" target="_blank" rel="noreferrer noopener"><img src="http://guillaumeisabelle.com/siggraph/wp-content/uploads/sites/25/2019/11/image-6-1024x516.png" alt="" class="wp-image-69" /></a></figure> <!-- /wp:image -->
 
-<!-- wp:image --><figure class="wp-block-image">
+<!-- wp:image {"id":143} --><figure class="wp-block-image">
 
-![][1]</figure> <!-- /wp:image -->
+<img src="http://guillaumeisabelle.com/siggraph/wp-content/uploads/sites/25/2019/11/image-8-1024x515.png" alt="" class="wp-image-143" /></figure> <!-- /wp:image -->
 
 <!-- wp:separator -->
 
@@ -104,5 +114,3 @@ well other stuff I was dragged into
 <!-- wp:image {"id":74} --><figure class="wp-block-image">
 
 <img src="http://guillaumeisabelle.com/siggraph/wp-content/uploads/sites/25/2019/11/image-7-1024x510.png" alt="" class="wp-image-74" /><figcaption>This will give a cloud of the top 10 ACM concepts</figcaption></figure> <!-- /wp:image -->
-
- [1]: blob:http://guillaumeisabelle.com/5b47ff72-4eb2-4417-a97e-b5b6a56481c9
