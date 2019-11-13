@@ -22,3 +22,19 @@ post_date: 2019-11-13 13:19:29
 </p>
 
 <!-- /wp:paragraph -->
+
+<!-- wp:separator -->
+
+<hr class="wp-block-separator" />
+
+<!-- /wp:separator -->
+
+<!-- wp:heading -->
+
+## Taxonomy Hierarchy
+
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":230} --><figure class="wp-block-image">
+
+<img src="http://guillaumeisabelle.com/siggraph/wp-content/uploads/sites/25/2019/11/image-25.png" alt="" class="wp-image-230" /><figcaption>Creating a Hierarchy is interesting</figcaption></figure> <!-- /wp:image -->
