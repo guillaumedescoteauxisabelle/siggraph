@@ -37,14 +37,31 @@ post_date: 2019-11-13 14:15:31
 
 <div class="wp-block-embed__wrapper">
   https://wordpress.org/plugins/enhanced-publication/
-</div></figure> 
+</div><figcaption>HAD ISSUES :(
 
-<!-- /wp:core-embed/wordpress -->
+  
+  
+</figcaption></figure> <!-- /wp:core-embed/wordpress -->
+
+<!-- wp:image {"id":269} --><figure class="wp-block-image">
+
+<img src="http://guillaumeisabelle.com/siggraph/wp-content/uploads/sites/25/2019/11/image-32.png" alt="" class="wp-image-269" /><figcaption>:(  
+</figcaption></figure> <!-- /wp:image -->
+
+<!-- wp:image {"id":270} --><figure class="wp-block-image">
+
+<img src="http://guillaumeisabelle.com/siggraph/wp-content/uploads/sites/25/2019/11/image-33.png" alt="" class="wp-image-270" /><figcaption>Goodbye...</figcaption></figure> <!-- /wp:image -->
 
 <!-- wp:image --><figure class="wp-block-image">
 
 ![][1]<figcaption>Knowledge graph example  
 </figcaption></figure> <!-- /wp:image -->
+
+<!-- wp:paragraph -->
+
+
+
+<!-- /wp:paragraph -->
 
 <!-- wp:heading -->
 
