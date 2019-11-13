@@ -1,0 +1,48 @@
+---
+ID: 239
+post_title: 'Further possible investigation&#8230;'
+author: gicomadmin
+post_excerpt: ""
+layout: page
+permalink: >
+  http://guillaumeisabelle.com/siggraph/further-possible-investigation/
+published: true
+post_date: 2019-11-13 14:15:31
+---
+<!-- wp:image --><figure class="wp-block-image">
+
+![][1]<figcaption>Knowledge graph example  
+</figcaption></figure> <!-- /wp:image -->
+
+<!-- wp:heading -->
+
+## Knowledge graph
+
+<!-- /wp:heading -->
+
+<!-- wp:heading -->
+
+## Optimal Knowledge Presentation
+
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+
+Would be interesting to use knowledge graph to present the corpus
+
+<!-- /wp:paragraph -->
+
+<!-- wp:image --><figure class="wp-block-image">
+
+![][2]</figure> <!-- /wp:image -->
+
+<!-- wp:image {"id":242} --><figure class="wp-block-image">
+
+<img src="http://guillaumeisabelle.com/siggraph/wp-content/uploads/sites/25/2019/11/image-29.png" alt="" class="wp-image-242" /><figcaption>I will install that plugin as it has a relationship with Knowledge graph</figcaption></figure> <!-- /wp:image -->
+
+<!-- wp:shortcode --> [zotpress tags="Optimal Knowledge Presentation" download="yes" notes="yes"] 
+
+<!-- /wp:shortcode -->
+
+ [1]: https://upload.wikimedia.org/wikipedia/commons/7/70/Schema_DBpedia_2010.png
+ [2]: https://ps.w.org/schema-and-structured-data-for-wp/assets/screenshot-3.png?rev=2102249
