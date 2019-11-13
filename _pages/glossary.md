@@ -91,6 +91,22 @@ That key terms and concepts are definable and that definition is accessible in l
 
 <!-- /wp:separator -->
 
+<!-- wp:separator -->
+
+<hr class="wp-block-separator" />
+
+<!-- /wp:separator -->
+
+<!-- wp:heading -->
+
+## Glossary using my Bibliographic references and notes, that is great
+
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":193} --><figure class="wp-block-image">
+
+<img src="http://guillaumeisabelle.com/siggraph/wp-content/uploads/sites/25/2019/11/image-18.png" alt="" class="wp-image-193" /></figure> <!-- /wp:image -->
+
 <!-- wp:heading -->
 
 ## Next: Creating Charts...
@@ -100,3 +116,9 @@ That key terms and concepts are definable and that definition is accessible in l
 <!-- wp:image {"id":191} --><figure class="wp-block-image">
 
 <img src="http://guillaumeisabelle.com/siggraph/wp-content/uploads/sites/25/2019/11/image-17.png" alt="" class="wp-image-191" /></figure> <!-- /wp:image -->
+
+<!-- wp:separator -->
+
+<hr class="wp-block-separator" />
+
+<!-- /wp:separator -->
