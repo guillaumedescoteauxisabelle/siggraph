@@ -64,3 +64,13 @@ That key terms and concepts are definable and that definition is accessible in l
 <!-- wp:image {"id":185} --><figure class="wp-block-image">
 
 <img src="http://guillaumeisabelle.com/siggraph/wp-content/uploads/sites/25/2019/11/image-14.png" alt="" class="wp-image-185" /></figure> <!-- /wp:image -->
+
+<!-- wp:heading {"level":3} -->
+
+### What is bester than a good test
+
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":187} --><figure class="wp-block-image">
+
+<img src="http://guillaumeisabelle.com/siggraph/wp-content/uploads/sites/25/2019/11/image-15.png" alt="" class="wp-image-187" /></figure> <!-- /wp:image -->
