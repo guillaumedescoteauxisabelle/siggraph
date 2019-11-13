@@ -107,6 +107,16 @@ That key terms and concepts are definable and that definition is accessible in l
 
 <img src="http://guillaumeisabelle.com/siggraph/wp-content/uploads/sites/25/2019/11/image-18.png" alt="" class="wp-image-193" /></figure> <!-- /wp:image -->
 
+<!-- wp:image {"id":195} --><figure class="wp-block-image">
+
+<img src="http://guillaumeisabelle.com/siggraph/wp-content/uploads/sites/25/2019/11/image-19.png" alt="" class="wp-image-195" /><figcaption>I used Zotpress</figcaption></figure> <!-- /wp:image -->
+
+<!-- wp:separator -->
+
+<hr class="wp-block-separator" />
+
+<!-- /wp:separator -->
+
 <!-- wp:heading -->
 
 ## Next: Creating Charts...
