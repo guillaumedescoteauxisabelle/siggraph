@@ -141,6 +141,16 @@ That key terms and concepts are definable and that definition is accessible in l
 
 <!-- wp:heading -->
 
+## Zotpress reference widget activated for glossary
+
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":210} --><figure class="wp-block-image">
+
+<img src="http://guillaumeisabelle.com/siggraph/wp-content/uploads/sites/25/2019/11/image-24.png" alt="" class="wp-image-210" /><figcaption>Zotpress reference widget activated for glossary</figcaption></figure> <!-- /wp:image -->
+
+<!-- wp:heading -->
+
 ## Next: Creating Charts...
 
 <!-- /wp:heading -->
