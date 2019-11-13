@@ -21,6 +21,10 @@ post_date: 2019-11-13 14:15:31
 
 <!-- /wp:paragraph -->
 
+<!-- wp:image {"id":266} --><figure class="wp-block-image">
+
+<img src="http://guillaumeisabelle.com/siggraph/wp-content/uploads/sites/25/2019/11/image-31-1024x94.png" alt="" class="wp-image-266" /><figcaption>activating...</figcaption></figure> <!-- /wp:image -->
+
 <!-- wp:image --><figure class="wp-block-image">
 
 ![][1]<figcaption>Knowledge graph example  
