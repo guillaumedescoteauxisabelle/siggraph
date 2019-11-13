@@ -74,3 +74,13 @@ That key terms and concepts are definable and that definition is accessible in l
 <!-- wp:image {"id":187} --><figure class="wp-block-image">
 
 <img src="http://guillaumeisabelle.com/siggraph/wp-content/uploads/sites/25/2019/11/image-15.png" alt="" class="wp-image-187" /></figure> <!-- /wp:image -->
+
+<!-- wp:paragraph -->
+
+
+
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":189} --><figure class="wp-block-image">
+
+<img src="http://guillaumeisabelle.com/siggraph/wp-content/uploads/sites/25/2019/11/image-16.png" alt="" class="wp-image-189" /><figcaption>You can disable glossary in a post...</figcaption></figure> <!-- /wp:image -->
