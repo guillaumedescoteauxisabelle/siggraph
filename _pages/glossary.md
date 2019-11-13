@@ -5,7 +5,7 @@ author: gicomadmin
 post_excerpt: ""
 layout: page
 permalink: >
-  http://guillaumeisabelle.com/siggraph/glossary/
+  http://guillaumeisabelle.com/siggraph/creating-the-corpus-cartography/glossary/
 published: true
 post_date: 2019-11-13 11:24:30
 ---
