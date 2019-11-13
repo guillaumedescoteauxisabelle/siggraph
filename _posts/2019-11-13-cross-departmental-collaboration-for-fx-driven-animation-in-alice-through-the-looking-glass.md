@@ -21,10 +21,6 @@ post_date: 2019-11-13 00:59:49
 
 <!-- /wp:shortcode -->
 
-<!-- wp:block {"ref":83} /-->
-
-<!-- wp:block {"ref":92} /-->
-
 <!-- wp:paragraph -->
 
 
