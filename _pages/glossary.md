@@ -15,9 +15,33 @@ That key terms and concepts are definable and that definition is accessible in l
 
 <!-- /wp:paragraph -->
 
-<!-- wp:shortcode --> [glossary-terms] 
+<!-- wp:separator -->
 
-<!-- /wp:shortcode -->
+<hr class="wp-block-separator" />
+
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+
+### Terms
+
+<!-- /wp:heading -->
+
+<!-- wp:block {"ref":222} /-->
+
+<!-- wp:separator -->
+
+<hr class="wp-block-separator" />
+
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+
+### Taxonomy
+
+<!-- /wp:heading -->
+
+<!-- wp:block {"ref":223} /-->
 
 <!-- wp:separator -->
 
