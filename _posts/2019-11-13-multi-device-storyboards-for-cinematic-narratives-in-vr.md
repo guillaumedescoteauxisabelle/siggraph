@@ -25,7 +25,7 @@ post_date: 2019-11-13 23:06:33
 ---
 <!-- wp:paragraph -->
 
-
+Virtual Reality (VR) narratives have the unprecedented potential to connect with an audience through presence, placing viewers within the narrative.
 
 <!-- /wp:paragraph -->
 
