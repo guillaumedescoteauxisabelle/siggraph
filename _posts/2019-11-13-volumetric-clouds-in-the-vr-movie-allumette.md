@@ -50,6 +50,6 @@ post_date: 2019-11-13 02:16:32
 
 <!-- /wp:paragraph -->
 
-<!-- wp:shortcode --> [zotpress items="{180474:78ENCAGS}" style="apa" showimage="yes" download="yes" notes="yes" cite="yes"] 
+<!-- wp:shortcode --> [zotpress items="{180474:78ENCAGS}" style="apa" showimage="yes" download="yes" notes="yes" cite="yes" abstract="yes"] 
 
 <!-- /wp:shortcode -->
