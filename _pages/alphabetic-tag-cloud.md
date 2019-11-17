@@ -54,3 +54,17 @@ Vision: Tabs of my group BY DOMAIN
 <!-- wp:block {"ref":442} /-->
 
 <!-- wp:block {"ref":440} /-->
+
+<!-- wp:separator -->
+
+<hr class="wp-block-separator" />
+
+<!-- /wp:separator -->
+
+<!-- wp:paragraph -->
+
+A tab group I took from the Widget
+
+<!-- /wp:paragraph -->
+
+<!-- wp:chatty-mango/tag-groups-cloud-tabs {"source":"gutenberg","include":"4,21,13,5,17,8,22,3,15,23","largest":29,"link_target":"_blank","mouseover":1,"separator":" - ","smallest":19,"taxonomy":"acmkeyword"} /-->
