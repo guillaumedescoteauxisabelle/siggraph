@@ -34,3 +34,19 @@ Vision: Tabs of my group BY DOMAIN
 <!-- wp:shortcode --> [tag_groups_cloud custom_title="We have {count} posts for this tag." hide_empty=0 hide_empty_tabs=1] 
 
 <!-- /wp:shortcode -->
+
+<!-- wp:separator -->
+
+<hr class="wp-block-separator" />
+
+<!-- /wp:separator -->
+
+<!-- wp:heading -->
+
+## Accordion Tag Cloud
+
+<!-- /wp:heading -->
+
+<!-- wp:shortcode --> [tag_groups_accordion separator="|" prepend="#" hide_empty=0 mouseover=1 heightstyle=content hide_empty_content=1] 
+
+<!-- /wp:shortcode -->
