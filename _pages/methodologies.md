@@ -63,3 +63,23 @@ Grille des conferences sur la metho
 </div>
 
 <!-- /wp:group -->
+
+<!-- wp:group -->
+
+<div class="wp-block-group">
+  <div class="wp-block-group__inner-container">
+    <!-- wp:heading -->
+    
+    <h2>
+      Grille des Sessions à travers les années
+    </h2>
+    
+    <!-- /wp:heading -->
+    
+    <!-- wp:shortcode --> [the-post-grid id="452" title="Session: Computer Animation"] 
+    
+    <!-- /wp:shortcode -->
+  </div>
+</div>
+
+<!-- /wp:group -->
