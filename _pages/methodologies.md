@@ -18,3 +18,21 @@ Grille des conferences sur la metho
 <!-- wp:shortcode --> [the-post-grid id="446" title="Methodologies"] 
 
 <!-- /wp:shortcode -->
+
+<!-- wp:separator -->
+
+<hr class="wp-block-separator" />
+
+<!-- /wp:separator -->
+
+<!-- wp:heading -->
+
+## Temp GRID I'll move elsewhere
+
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+
+
+
+<!-- /wp:paragraph -->
