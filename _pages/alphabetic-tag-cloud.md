@@ -27,7 +27,7 @@ Other experimentations I will move in their own page
 
 <!-- wp:paragraph -->
 
-Vision: Tabs of my group
+Vision: Tabs of my group BY DOMAIN
 
 <!-- /wp:paragraph -->
 
