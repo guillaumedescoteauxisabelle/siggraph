@@ -36,3 +36,30 @@ Grille des conferences sur la metho
 
 
 <!-- /wp:paragraph -->
+
+<!-- wp:group -->
+
+<div class="wp-block-group">
+  <div class="wp-block-group__inner-container">
+    <!-- wp:heading -->
+    
+    <h2>
+      L'intéraction de l'humain avec la machine (HCI)
+    </h2>
+    
+    <!-- /wp:heading -->
+    
+    <!-- wp:shortcode --> [the-post-grid id="445" title="HCI"] 
+    
+    <!-- /wp:shortcode -->
+    
+    <!-- wp:paragraph -->
+    
+    <p>
+    </p>
+    
+    <!-- /wp:paragraph -->
+  </div>
+</div>
+
+<!-- /wp:group -->
