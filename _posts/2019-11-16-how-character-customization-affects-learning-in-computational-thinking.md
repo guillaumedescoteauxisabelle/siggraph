@@ -39,6 +39,12 @@ permalink: >
 published: true
 post_date: 2019-11-16 23:28:30
 ---
+<!-- wp:paragraph -->
+
+customize characters in educational applications and games has been shown to influence factors related to learning effects such as transfer, self-efficacy, and motivation. 
+
+<!-- /wp:paragraph -->
+
 <!-- wp:shortcode --> [zotpress items="{180474:UFMWHNN7}" style="apa" showimage="yes" download="yes" abstract="yes" notes="yes" cite="yes" title="yes"] 
 
 <!-- /wp:shortcode -->
