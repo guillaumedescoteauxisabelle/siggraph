@@ -19,10 +19,6 @@ post_date: 2019-11-12 16:16:20
 
 <!-- /wp:shortcode -->
 
-<!-- wp:block {"ref":83} /-->
-
-<!-- wp:block {"ref":81} /-->
-
 <!-- wp:paragraph -->
 
 An accurate solve for camera movement is imperative
