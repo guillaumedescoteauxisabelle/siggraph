@@ -46,7 +46,7 @@ post_date: 2019-11-17 01:17:43
 ---
 <!-- wp:paragraph -->
 
-
+trajectory optimization, articulated bodies, deformable bodies, position-based dynamics
 
 <!-- /wp:paragraph -->
 
