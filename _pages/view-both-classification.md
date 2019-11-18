@@ -15,4 +15,6 @@ ACM Taxonomies - JG Taxonomies
 
 <!-- /wp:paragraph -->
 
-<!-- wp:chatty-mango/tag-groups-cloud-tabs {"source":"gutenberg","taxonomy":"acmkeyword"} /-->
+<!-- wp:categories {"showHierarchy":true,"showPostCounts":true} /-->
+
+<!-- wp:tag-cloud {"showTagCounts":true} /-->
