@@ -35,7 +35,7 @@ post_date: 2019-11-18 11:05:52
 ---
 <!-- wp:paragraph -->
 
-improving the quality of two-level BVHs 
+Two-level data structure that uses a top-level BVH built over second-level object BVHs
 
 <!-- /wp:paragraph -->
 
