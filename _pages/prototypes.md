@@ -15,6 +15,12 @@ post_date: 2019-11-18 07:52:02
 
 <!-- /wp:heading -->
 
+<!-- wp:paragraph -->
+
+One Cross-Classification issue I would like to address with my innovation is the one implicating **Computer Graphic Animation (CG Animation, 3D Animation)** ** ** - The disambiguation required is between **Character Animation** & **Simulation Animation** which is a new trend in which you **Simulate using Physically-based principles** to generate the animation.
+
+<!-- /wp:paragraph -->
+
 <!-- wp:core-embed/wordpress {"url":"http://guillaumeisabelle.com/siggraph/vfxpipeline/","type":"wp-embed","providerNameSlug":"corpuspace","className":""} --><figure class="wp-block-embed-wordpress wp-block-embed is-type-wp-embed is-provider-corpuspace">
 
 <div class="wp-block-embed__wrapper">
