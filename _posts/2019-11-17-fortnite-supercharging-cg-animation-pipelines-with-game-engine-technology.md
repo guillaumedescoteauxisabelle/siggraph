@@ -20,7 +20,7 @@ post_date: 2019-11-17 19:33:05
 ---
 <!-- wp:paragraph -->
 
-Computer systems organization, Unreal Engine, Realtime, Animation, Rendering, Workflow, Pipeline,Alembic 
+With realtime interactivity, the iterative revision process improves, flexibility during scene assembly increases, and rendering overhead is potentially eliminated 
 
 <!-- /wp:paragraph -->
 
