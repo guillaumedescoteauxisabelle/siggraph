@@ -39,6 +39,12 @@ Two-level data structure that uses a top-level BVH built over second-level objec
 
 <!-- /wp:paragraph -->
 
-<!-- wp:shortcode --> [zotpress items="{180474:99RX6ZQB}" style="apa" showimage="yes" download="yes" abstract="yes" notes="yes" cite="yes" title="yes"] 
+<!-- wp:paragraph -->
+
+We propose a novel approach for improving the quality of two-level BVHs (i.e., a two-level data structure that uses a top-level BVH built over second-level object BVHs). After building an individual, high-quality BVH for each object, our new top-level BVH build approach selectively re-braids (opens and merges) object BVHs during the build process to reduce overlap and improve SAH quality. We demonstrate that compared to the two main state-of-the-art techniques—brute-force re-construction of a single, flat BVH; and building a traditional two-level BVH over objects, respectively—the proposed approach achieves build times significantly faster than the former, while simultaneously yielding traversal performance that is much higher than the latter.
+
+<!-- /wp:paragraph -->
+
+<!-- wp:shortcode --> [zotpress items="{180474:99RX6ZQB}" style="apa" showimage="yes" download="yes" abstract="no" notes="yes" cite="yes" title="yes"] 
 
 <!-- /wp:shortcode -->
