@@ -41,7 +41,7 @@ post_date: 2019-11-18 14:08:49
 ---
 <!-- wp:paragraph -->
 
-Interactive 3D Graphics and Games / SESSION: Global illumination
+Interactive 3D Graphics and Games / SESSION: Global illumination - Supervised learning by regression, Mathematics of computing 
 
 <!-- /wp:paragraph -->
 
