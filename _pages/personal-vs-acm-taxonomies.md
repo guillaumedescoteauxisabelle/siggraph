@@ -17,6 +17,7 @@ Comparation table - Two Colums of my own taxonomies and the ACM to observe patte
 
 <!-- wp:paragraph -->
 
-Right away I am observing that I can "induce" subject/object and classify them into **hierarchical categories** using the **ACM Concepts/keywords **taxonomies and as we would do in **3D Modeling**, I would create **"Tag Groupping" (*which I called : ***
+Right away I am observing that I can "induce" subject/object and classify them into **hierarchical categories** using the **ACM Concepts/keywords **taxonomies and as we would do in **3D Modeling**, I would create **"Tag Groupping" (*which I called : ***Domain/Discipline taxonomy class type composition).  
+In short, it means you can view a **Disciplined Specific Domain Taxonomy** 
 
 <!-- /wp:paragraph -->
